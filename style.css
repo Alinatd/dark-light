@@ -1,0 +1,27 @@
+/* body{
+    background-color: darkslategrey;
+} */
+body{
+    background-color: darkslategrey;
+}
+.bac{
+
+   background-color:yellow
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    width: auto;
+    height: 700px;
+}
+#btn{
+    width: 150px;
+    height: 150px;
+    border-radius: 80px;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 3px solid;
+    transform: rotate(360deg);
+    transition: 1s;
+}
